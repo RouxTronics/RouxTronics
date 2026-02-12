@@ -15,13 +15,10 @@ I build embedded systems that sense, connect, and (hopefully) don't catch fire. 
 - **Extras** — 3D printing enclosures, analog prototyping, old-gear reverse engineering, secure boot/IoT hardening  
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RouxTronics&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RouxTronics&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Contribution Streak" width="48%" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RouxTronics&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=html,css&exclude_repo=rouxtronics.github.io" alt="Top Languages" width="55%" />
-</div>
+
 
 <br/>
 
