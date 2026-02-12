@@ -4,15 +4,21 @@
 
 <br/>
 
-Hey! 👋 I'm **Roux** — a **computer engineering student** and tinkerer from **Cape Town, South Africa** 🌍⚡  
-I build embedded systems that sense, connect, and (hopefully) don't catch fire. When I'm not soldering or fighting Rust lifetimes, I'm diving into firmware security, reverse engineering, or CTF challenges.
+Hey! 👋 — a **computer engineering student** and tinkerer from **Cape Town, South Africa** 🌍⚡  
+I build embedded systems that sense, connect, and (hopefully) don't catch fire. When I'm not soldering, I'm diving into firmware security, reverse engineering, or CTF challenges.
 
-### 🔧 Tech Stack & Tools (What I'm Using Right Now)
-- **Microcontrollers** — ESP32, STM32, RP2040, AVR/Arduino  
-- **Languages** — C/C++, **Rust** (embedded/no_std love), Python, experimenting with Zig  
-- **Wireless/Protocols** — LoRa/LoRaWAN, Wi-Fi, BLE, Thread/Matter, Zigbee curiosity  
-- **Design & Dev** — KiCad (PCBs), PlatformIO, Rust embedded-hal, cargo-embed  
-- **Extras** — 3D printing enclosures, analog prototyping, old-gear reverse engineering, secure boot/IoT hardening  
+### Technical Stack
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="48"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="48"/>
+<img src="https://img.icons8.com/color/48/metasploit.png" width="48"/>
+<img src="https://img.icons8.com/?size=100&id=101665&format=png&color=000000" alt="Kali Linux" width="48" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Wireshark_Icon.png" width="48"/>
+
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RouxTronics&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Contribution Streak" width="48%" />
