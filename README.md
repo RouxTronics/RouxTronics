@@ -4,8 +4,8 @@
 
 <br/>
 
-Hey! 👋 — a **computer engineering student** and tinkerer from **Cape Town, South Africa** 🌍⚡  
-I build embedded systems that sense, connect, and (hopefully) don't catch fire. When I'm not soldering, I'm diving into firmware security, reverse engineering, or CTF challenges.
+Hey! 👋 — I am a **computer engineering student** and tinkerer from **Cape Town, South Africa** 🌍⚡  
+I build embedded systems that sense, connect, and (hopefully) don't catch fire. When I'm not soldering, II focus on hands-on offensive security and practical penetration testing.
 
 ### Technical Stack
 
@@ -15,7 +15,6 @@ I build embedded systems that sense, connect, and (hopefully) don't catch fire. 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="48"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="48"/>
-<img src="https://img.icons8.com/color/48/metasploit.png" width="48"/>
 <img src="https://img.icons8.com/?size=100&id=101665&format=png&color=000000" alt="Kali Linux" width="48" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Wireshark_Icon.png" width="48"/>
 
