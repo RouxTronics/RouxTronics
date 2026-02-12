@@ -1,7 +1,3 @@
-<!-- 
-  Welcome to your GitHub profile README!
-  Feel free to delete any sections you don't want.
--->
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+RouxTronics;Electronics+%26+Embedded+Systems+Enthusiast;Turning+ideas+into+working+hardware" alt="Typing SVG" />
@@ -46,10 +42,9 @@ I love building things that blink, move, talk to the cloud, or just make weird n
 
 ### 📫 Let's connect
 <p align="center">
-  <a href="https://twitter.com/YourHandle"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/></a>
-  <a href="https://linkedin.com/in/YourName"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <!-- Add more: Mastodon, Bluesky, personal site, etc. -->
+  <a href="https://twitter.com/RouxTronics"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/></a>
+ 
+
 </p>
 
 <br/>
@@ -58,17 +53,12 @@ I love building things that blink, move, talk to the cloud, or just make weird n
   <img src="https://visitor-badge.laobi.icu/badge?page_id=RouxTronics.RouxTronics&right_color=brightgreen&left_text=Profile%20Views" alt="Profile Views"/>
 </div>
 
-<!--
-**Fun fact:** I once fixed a 1980s synth with a paperclip and sheer spite.
--->
-
-
 <div align="center">
-  <a href="YOUR_REFERRAL_LINK_HERE">
+  <a href="https://referral.hackthebox.com/mzC9F4k">
     <img src="https://img.shields.io/badge/🎓_Join_HTB_Academy_with_my_link-20_bonus_cubes!-brightgreen?style=for-the-badge&logoColor=white&logo=htb" alt="HTB Academy Referral">
   </a>
 </div>
 
 **🎁 Get 20 bonus cubes** when you sign up via my referral and complete the free **Intro to Academy** module!  
 Great way to start learning cybersecurity hands-on. 👇  
-🔗 [Join here & unlock your bonus](YOUR_REFERRAL_LINK_HERE)
+🔗 [Join here & unlock your bonus](https://referral.hackthebox.com/mzC9F4k)
