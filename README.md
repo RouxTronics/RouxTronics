@@ -18,9 +18,6 @@ I love building things that blink, move, talk to the cloud, or just make weird n
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RouxTronics&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RouxTronics&theme=radical&hide_border=true" alt="Streak Stats" width="48%" />
-</div>
-
 <br/>
 
 
