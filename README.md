@@ -17,7 +17,7 @@ I love building things that blink, move, talk to the cloud, or just make weird n
 - Sometimes: 3D printing, analog circuits, reverse engineering old gear
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RouxTronics&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
+ 
 <br/>
 
 
