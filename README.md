@@ -23,9 +23,7 @@ I love building things that blink, move, talk to the cloud, or just make weird n
 
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RouxTronics&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" width="55%" />
-</div>
+
 
 ### 🚀 Some things I'm proud of
 - [Project Name](https://github.com/RouxTronics/repo-name) — description in one line  
