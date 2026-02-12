@@ -1,77 +1,81 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4200&pause=800&color=7AA2F7&center=true&vCenter=true&width=550&lines=Hey!+I'm+RouxTronics;Embedded+Hardware+%26+Firmware+Hacker;From+Cape+Town+to+the+Edge;Building+secure,+low-power+things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4200&pause=800&color=7AA2F7&center=true&vCenter=true&width=560&lines=Hey!+I'm+RouxTronics;Computer+Engineering+Student;Embedded+Systems+%26+Firmware+Hacker;Offensive+Security+%26+CTF+Enthusiast" alt="Typing SVG" />
 </div>
 
 <br/>
 
-Hey! 👋 — I am a **computer engineering student** and tinkerer from **Cape Town, South Africa** 🌍⚡  
-I build embedded systems that sense, connect, and (hopefully) don't catch fire. When I'm not soldering, II focus on hands-on offensive security and practical penetration testing.
+Hey! 👋 I'm **Roux** — a **computer engineering student** from **Cape Town, South Africa** 🌍⚡  
 
-### Technical Stack
+I build embedded systems that sense and connect securely, while also diving deep into **offensive security**, practical penetration testing, firmware reversing, and CTF challenges.
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="48"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="48"/>
-<img src="https://img.icons8.com/?size=100&id=101665&format=png&color=000000" alt="Kali Linux" width="48" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Wireshark_Icon.png" width="48"/>
-
+### 🔧 Technical Stack
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RouxTronics&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Contribution Streak" width="48%" />
+
+**Hardware & Embedded**  
+ESP32 • STM32 • RP2040 • Arduino • KiCad • 3D Printing
+
+**Languages**  
+Rust • C/C++ • Python • Bash • Zig (learning)
+
+**Security & Pentesting**  
+Kali Linux • Metasploit • Wireshark • Ghidra • Burp Suite
+
+**DevOps & Tools**  
+Docker • Linux • PlatformIO • Rust Embedded
+
 </div>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RouxTronics&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RouxTronics&theme=tokyonight&hide_border=true" alt="Streak Stats" width="48%" />
+</div>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RouxTronics&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="55%" />
+</div>
 
 <br/>
 
+### 🚀 Featured Projects
+(Pin your best repos on your profile!)
 
-### 🚀 Projects I'm Proud Of
-(Pin your top repos on your profile for max visibility!)
-
-- **[esp32-matter-sensor](https://github.com/RouxTronics/esp32-matter-sensor)** — Low-power environmental sensor with Matter protocol support  
-- **[lora-rust-node](https://github.com/RouxTronics/lora-rust-node)** — Rust-based LoRaWAN end device (no_std + embedded-hal)  
-- **[stm32-rusty-bootloader](https://github.com/RouxTronics/stm32-rusty-bootloader)** — Secure bootloader experiments in Rust for STM32  
-- **[firmware-reversing-notes](https://github.com/RouxTronics/firmware-reversing-notes)** — My growing collection of Ghidra/IDA tips & embedded binaries walkthroughs  
-
-(Replace links & descriptions with your real ones — aim for 4–6 strong, diverse projects.)
+- **[esp32-matter-sensor]** — Low-power Matter protocol sensor  
+- **[lora-rust-node]** — Rust + no_std LoRaWAN device  
+- **[stm32-rusty-bootloader]** — Secure bootloader in Rust  
+- **[firmware-reversing-notes]** — Ghidra + embedded reversing writeups
 
 ### 🌱 Currently Exploring
-- Rust in no_std embedded environments → safer firmware  
-- Matter/Thread on cheap MCUs for secure smart-home stuff  
-- Battery-optimized PCBs with energy harvesting experiments  
-- Firmware security + side-channel basics (ties nicely into CTF/reversing)  
-- Maybe FPGA if I find a reasonably priced board  
+- Rust `no_std` embedded firmware
+- Firmware security & side-channel attacks
+- Matter/Thread protocol on MCUs
+- Battery-powered & energy-harvesting designs
+- Advanced privilege escalation & IoT pentesting
 
-### 📫 Let's Connect & Collaborate
+### 📫 Connect With Me
 <p align="center">
-  <a href="https://x.com/RouxTronics"><img src="https://img.shields.io/badge/X/Twitter-%23000000.svg?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
-  <a href="https://linkedin.com/in/rouxtronics"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <!-- Add more: Bluesky, personal blog, HTB profile, etc. -->
+  <a href="https://x.com/RouxTronics"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+  <a href="https://linkedin.com/in/rouxtronics"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://rouxtronics.github.io"><img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>
 </p>
-
-Got embedded security questions, Rust tips, or want to jam on a LoRa project? Drop me a message!
 
 <br/>
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=RouxTronics.RouxTronics&right_color=7AA2F7&left_text=Profile%20Views" alt="Profile Views"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=RouxTronics.RouxTronics&right_color=7AA2F7&left_text=Profile%20Views" alt="Views"/>
 </div>
 
-### 🎓 Cybersecurity Side Quest – HTB Academy Referral
+### 🎓 HTB Academy Referral
 <div align="center">
   <a href="https://referral.hackthebox.com/mzC9F4k">
-    <img src="https://img.shields.io/badge/🎓_HTB_Academy-20_bonus_cubes!-7AA2F7?style=for-the-badge&logoColor=white" alt="HTB Referral"/>
+    <img src="https://img.shields.io/badge/🎓_HTB_Academy-20_Bonus_Cubes!-7AA2F7?style=for-the-badge" alt="HTB Referral"/>
   </a>
 </div>
 
-> 🎁 Sign up via my link + complete the free **Intro to Academy** module → **+20 bonus cubes** to kickstart your journey!  
-> 🚀 Win-win — I earn cubes as you progress through pentesting, reversing, and IoT security paths.  
-> Perfect complement to embedded/firmware tinkering.
+> 🎁 Get **20 bonus cubes** when you join via my link and complete the free **Intro to Academy** module!  
+> 🚀 Win-win — I also earn cubes as you progress.  
+> Great for pentesting, reversing, and IoT security paths.
 
-🔗 **[Join & grab your bonus →](https://referral.hackthebox.com/mzC9F4k)**
- 🌐 **_Website:_** [https://rouxtronics.github.io](https://rouxtronics.github.io)
+🔗 **[Join here & claim your bonus →](https://referral.hackthebox.com/mzC9F4k)**
 
-Happy building & hacking (responsibly)! 🛠️🔒
+Happy hacking & building responsibly! 🛠️🔒
