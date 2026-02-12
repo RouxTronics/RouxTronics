@@ -22,6 +22,17 @@ I love building things that blink, move, talk to the cloud, or just make weird n
  
 <br/>
 
+### Technical Stack
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="48"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="48"/>
+<img src="https://img.icons8.com/color/48/metasploit.png" width="48"/>
+<img src="https://img.icons8.com/?size=100&id=101665&format=png&color=000000" alt="Kali Linux" width="48" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Wireshark_Icon.png" width="48"/>
 
 
 ### 🚀 Some things I'm proud of
