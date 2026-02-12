@@ -28,6 +28,7 @@ I build embedded systems that sense, connect, and (hopefully) don't catch fire. 
 
 <br/>
 
+
 ### 🚀 Projects I'm Proud Of
 (Pin your top repos on your profile for max visibility!)
 
@@ -72,5 +73,6 @@ Got embedded security questions, Rust tips, or want to jam on a LoRa project? Dr
 > Perfect complement to embedded/firmware tinkering.
 
 🔗 **[Join & grab your bonus →](https://referral.hackthebox.com/mzC9F4k)**
+ 🌐 **_Website:_** [https://rouxtronics.github.io](https://rouxtronics.github.io)
 
 Happy building & hacking (responsibly)! 🛠️🔒
