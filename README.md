@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+RouxTronics;Electronics+%26+Embedded+Systems+Enthusiast;Turning+ideas+into+working+hardware" alt="Typing SVG" />
 </div>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RouxTronics&theme=radical&hide_border=true" alt="Streak Stats" width="48%" />
+
 <br/>
 
 Hey! 👋 I'm **Roux** — a hardware hacker, embedded developer, and tinkerer based in **Cape Town, South Africa** 🌍⚡
@@ -18,6 +18,7 @@ I love building things that blink, move, talk to the cloud, or just make weird n
 - Sometimes: 3D printing, analog circuits, reverse engineering old gear
 
 <div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RouxTronics&theme=radical&hide_border=true" alt="Streak Stats" width="48%" />
  
 <br/>
 
