@@ -61,3 +61,14 @@ I love building things that blink, move, talk to the cloud, or just make weird n
 <!--
 **Fun fact:** I once fixed a 1980s synth with a paperclip and sheer spite.
 -->
+
+
+<div align="center">
+  <a href="YOUR_REFERRAL_LINK_HERE">
+    <img src="https://img.shields.io/badge/🎓_Join_HTB_Academy_with_my_link-20_bonus_cubes!-brightgreen?style=for-the-badge&logoColor=white&logo=htb" alt="HTB Academy Referral">
+  </a>
+</div>
+
+**🎁 Get 20 bonus cubes** when you sign up via my referral and complete the free **Intro to Academy** module!  
+Great way to start learning cybersecurity hands-on. 👇  
+🔗 [Join here & unlock your bonus](YOUR_REFERRAL_LINK_HERE)
