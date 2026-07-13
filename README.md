@@ -1,7 +1,7 @@
 <h1 align="center">RouxTronics</h1>
 
 <p align="center">
-  CE student @ CPUT &nbsp;·&nbsp; Pentester &nbsp;·&nbsp; CTF competitor &nbsp;·&nbsp; Club instructor
+  CE student @ CPUT &nbsp;·&nbsp; Pentester &nbsp;·&nbsp; CTF competitor &nbsp;·&nbsp;
 </p>
 
 <p align="center">
