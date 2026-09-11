@@ -36,11 +36,11 @@
 
 ## CTF & Learning Platforms
 
-* 🟩 **Hack The Box** — CPTS & CWEE learning path
-* 🟦 **TryHackMe** — Cybersecurity & pentesting labs
-* 🟨 **OverTheWire** — Linux & security challenges
-* 🟪 **PicoCtf** — Currently active as CyLab
-* 🟧 **PortSwigger Web Security Academy** — Web security labs
+🟩 Hack The Box — Working towards CPTS & CWEE
+🟦 TryHackMe — Cybersecurity & pentesting labs
+🟨 OverTheWire — Linux & security challenges
+🟪 picoCTF / CyberLab — CTF challenges & cybersecurity learning
+🟧 PortSwigger Web Security Academy — Web security labs
 
 
 ---
