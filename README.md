@@ -21,15 +21,27 @@
 * Working towards the **CPTS** and **CWEE** certifications on Hack The Box.
 
 ---
-
 ## Skills
 
-| Area          | Stack                                                         |
-| ------------- | ------------------------------------------------------------- |
-| Cybersecurity | Web exploitation · Binary exploitation · Privilege escalation |
-| Languages     | Python · C                                                    |
-| Systems       | Linux · Parrot OS · Kali                                      |
-| Tools         | Burp Suite · GDB · Nmap · Feroxbuster · Obsidian              |
+| Area                   | Stack                                                                |
+| ---------------------- | -------------------------------------------------------------------- |
+| 🐧 Environment         | Parrot OS Security 7.3 · Bash · Alacritty · tmux · Neovim · Starship |
+| 💻 Workflow            | Git · GitHub · Obsidian                                              |
+| 🌐 Web Security        | Firefox · FoxyProxy · Caido · Burp Suite · ffuf · Gobuster           |
+| 🔎 Recon & Enumeration | Nmap · RustScan                                                      |
+| 🔐 Security            | Metasploit · John the Ripper                                         |
+| 🪟 Windows / AD        | Remmina · BloodHound                                                 |
+| 🔧 Hardware            | Hardware Hacking · Low-Level Systems                                 |
+| 🧑‍💻 Programming      | Python · C                                                           |
+
+## CTF & Learning Platforms
+
+* 🟩 **Hack The Box** — CPTS & CWEE learning path
+* 🟦 **TryHackMe** — Cybersecurity & pentesting labs
+* 🟨 **OverTheWire** — Linux & security challenges
+* 🟪 **PicoCtf** — Currently active as CyLab
+* 🟧 **PortSwigger Web Security Academy** — Web security labs
+
 
 ---
 
