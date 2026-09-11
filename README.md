@@ -16,9 +16,9 @@
 
 ## About
 
-First-year Computer Engineering student at CPUT, South Africa, with a strong interest in cybersecurity.
-
-Currently developing my skills through CTFs, Hack The Box, penetration testing, and hardware security. Working towards the **CPTS** and **CWEE** certifications on Hack The Box.
+- First-year Computer Engineering student at CPUT, South Africa, with a strong interest in cybersecurity.
+- Currently developing my skills through CTFs, Hack The Box, penetration testing, and hardware security.
+-  Working towards the **CPTS** and **CWEE** certifications on Hack The Box.
 
 ---
 
