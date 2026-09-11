@@ -1,7 +1,7 @@
 <h1 align="center">RouxTronics</h1>
 
 <p align="center">
-  CE student @ CPUT &nbsp;·&nbsp; Pentester &nbsp;·&nbsp; CTF competitor
+  CE student @ CPUT &nbsp;·&nbsp; Cybersecurity &nbsp;·&nbsp; CTF competitor
 </p>
 
 <p align="center">
@@ -18,30 +18,32 @@
 
 First-year Computer Engineering student at CPUT, South Africa, with a strong interest in cybersecurity.
 
-Currently developing my skills through CTFs, Hack The Box, penetration testing, and hardware security. Working towards the CPTS and CWEE certifications on Hack The Box.
+Currently developing my skills through CTFs, Hack The Box, penetration testing, and hardware security. Working towards the **CPTS** and **CWEE** certifications on Hack The Box.
 
 ---
 
 ## Skills
 
-| Area | Stack |
-|---|---|
-| Offensive Security | Web exploitation · Binary exploitation · Privilege escalation |
-| Languages | Python · C · Java (incoming) |
-| Systems | Linux · Parrot OS · Kali |
-| Tools | Burp Suite · GDB · nmap · feroxbuster · Obsidian |
+| Area          | Stack                                                         |
+| ------------- | ------------------------------------------------------------- |
+| Cybersecurity | Web exploitation · Binary exploitation · Privilege escalation |
+| Languages     | Python · C                                                    |
+| Systems       | Linux · Parrot OS · Kali                                      |
+| Tools         | Burp Suite · GDB · Nmap · Feroxbuster · Obsidian              |
 
 ---
 
 ## Currently
 
-- 🏴‍☠️ Solving Hack The Box machines and CTF challenges
-- 🔐 Learning penetration testing & binary exploitation
-- 🔧 Exploring hardware hacking & low-level systems
-- 🐧 Daily driving Parrot Security OS
-- 🏁 Competing with CyberHounds
-- 📚 Learning Python & pentesting fundamentals at STEMSecure
+* 🏴‍☠️ Solving **Hack The Box** machines and CTF challenges
+* 🔐 Learning **penetration testing & binary exploitation**
+* 🔧 Exploring **hardware hacking & low-level systems**
+* 🐧 Daily driving **Parrot Security OS**
+* 🏁 Competing with **CyberHounds**
+* 📚 Learning Python & pentesting fundamentals at **STEMSecure**
 
 ---
 
-<p align="center"> <sub>Build. Break. Learn. Repeat. 🛠️</sub> </p> 
+<p align="center">
+  <sub>Build. Break. Learn. Repeat. 🛠️</sub>
+</p>
