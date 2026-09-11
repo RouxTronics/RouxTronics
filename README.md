@@ -44,7 +44,6 @@ Currently developing my skills through CTFs, Hack The Box, penetration testing, 
 
 ---
 
-<p align="center"> <sub>Build. Break. Learn. Repeat. 🛠️</sub> </p> 
 
 <div align="center">
   <a href="https://referral.hackthebox.com/mzC9F4k">
@@ -60,6 +59,4 @@ Currently developing my skills through CTFs, Hack The Box, penetration testing, 
 
 ---
 
-<p align="center">
-  <sub>Happy hacking & building responsibly 🛠️🔒</sub>
-</p>
+<p align="center"> <sub>Build. Break. Learn. Repeat. 🛠️</sub> </p> 
