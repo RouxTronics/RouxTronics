@@ -16,9 +16,9 @@
 
 ## About
 
-Computer Engineering student at CPUT, focused on offensive security and low-level systems.
+First-year Computer Engineering student at CPUT, South Africa, with a strong interest in cybersecurity.
 
-I compete in CTF events with **CyberHounds** and teach pentesting fundamentals at the **STEMSecure** cybersecurity club on campus. Currently working through HackTheBox machines and building out binary exploitation skills.
+Currently developing my skills through CTFs, Hack The Box, penetration testing, and hardware security. Working towards the CPTS and CWEE certifications on Hack The Box.
 
 ---
 
@@ -35,16 +35,16 @@ I compete in CTF events with **CyberHounds** and teach pentesting fundamentals a
 
 ## Currently
 
-🏴‍☠️ Solving Hack The Box machines and CTF challenges
-🔐 Learning penetration testing & binary exploitation
-🔧 Exploring hardware hacking & low-level systems
-🐧 Daily driving Parrot Security OS
-🏁 Competing with CyberHounds
-📚 Teaching Python & pentesting fundamentals at STEMSecure
+- 🏴‍☠️ Solving Hack The Box machines and CTF challenges
+- 🔐 Learning penetration testing & binary exploitation
+- 🔧 Exploring hardware hacking & low-level systems
+- 🐧 Daily driving Parrot Security OS
+- 🏁 Competing with CyberHounds
+- 📚 Learning Python & pentesting fundamentals at STEMSecure
 
 ---
 
-## HTB Academy — Get 20 Bonus Cubes
+<p align="center"> <sub>Build. Break. Learn. Repeat. 🛠️</sub> </p> 
 
 <div align="center">
   <a href="https://referral.hackthebox.com/mzC9F4k">
