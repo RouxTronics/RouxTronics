@@ -35,10 +35,12 @@ I compete in CTF events with **CyberHounds** and teach pentesting fundamentals a
 
 ## Currently
 
-- 🎯 Active on **HackTheBox** — working through machines with a focus on web + binary
-- 🏁 CTF team: **CyberHounds** (CPUT-based, building up)
-- 📚 Teaching Python & pentesting fundamentals at **STEMSecure**
-- 🖥️ Daily driver: **Parrot Security OS 7.3**
+🏴‍☠️ Solving Hack The Box machines and CTF challenges
+🔐 Learning penetration testing & binary exploitation
+🔧 Exploring hardware hacking & low-level systems
+🐧 Daily driving Parrot Security OS
+🏁 Competing with CyberHounds
+📚 Teaching Python & pentesting fundamentals at STEMSecure
 
 ---
 
