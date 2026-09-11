@@ -21,6 +21,7 @@
 * Working towards the **CPTS** and **CWEE** certifications on Hack The Box.
 
 ---
+
 ## Skills
 
 | Area                   | Stack                                                                |
@@ -34,21 +35,22 @@
 | 🔧 Hardware            | Hardware Hacking · Low-Level Systems                                 |
 | 🧑‍💻 Programming      | Python · C                                                           |
 
+---
+
 ## CTF & Learning Platforms
 
-🟩 Hack The Box — Working towards CPTS & CWEE
-🟦 TryHackMe — Cybersecurity & pentesting labs
-🟨 OverTheWire — Linux & security challenges
-🟪 picoCTF / CyberLab — CTF challenges & cybersecurity learning
-🟧 PortSwigger Web Security Academy — Web security labs
-
+* 🟩 **Hack The Box** — Working towards CPTS & CWEE
+* 🟦 **TryHackMe** — Cybersecurity & pentesting labs
+* 🟨 **OverTheWire** — Linux & security challenges
+* 🟪 **picoCTF / CyberLab** — CTF challenges & cybersecurity learning
+* 🟧 **PortSwigger Web Security Academy** — Web security labs
 
 ---
 
 ## Currently
 
 * 🏴‍☠️ Solving **Hack The Box** machines and CTF challenges
-* 🔐 Learning **penetration testing & binary exploitation**
+* 🔐 Learning **penetration testing & web security**
 * 🔧 Exploring **hardware hacking & low-level systems**
 * 🐧 Daily driving **Parrot Security OS**
 * 🏁 Competing with **CyberHounds**
