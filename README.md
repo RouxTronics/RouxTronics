@@ -31,7 +31,7 @@
 | 🌐 Web Security        | Firefox · FoxyProxy · Caido · Burp Suite · ffuf · Gobuster           |
 | 🔎 Recon & Enumeration | Nmap · RustScan                                                      |
 | 🔐 Security            | Metasploit · John the Ripper                                         |
-|  Windows / AD        | Remmina · BloodHound                                                 |
+|  Windows / AD        | Remmina · BloodHound                                                 |
 | 🔧 Hardware            | Hardware Hacking · Low-Level Systems                                 |
 | 🧑‍💻 Programming      | Python · C                                                           |
 
